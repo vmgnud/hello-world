@@ -1,0 +1,4 @@
+---
+dist: focal
+language: python 
+script: python3 hello-world-py/main.py
